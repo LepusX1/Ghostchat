@@ -26,6 +26,7 @@ header{
     position: relative;
     display: inline-block;
     vertical-align: middle;
+    cursor: pointer;
 }
 
 .header__left_grid svg{
@@ -42,6 +43,7 @@ header{
     margin-left: 10px;
     vertical-align: middle;
     position: relative;
+    cursor: pointer;
 }
 
 .header__left_logo i{
@@ -74,6 +76,7 @@ header{
     margin: 0 1.5rem;
     position: relative;
     overflow: hidden;
+    cursor: pointer;
 }
 
 .header__middle_information > p{
@@ -158,6 +161,7 @@ header a{
     top: 50%;
     transform: translateY(-50%);
     transition: .3s;
+    cursor: pointer;
 }
 
 #log-in{
@@ -213,6 +217,7 @@ header a{
     left: 50%;
     transform: translateX(-50%);
     transition: .3s;
+    cursor: pointer;
 }
 
 #create-ad_body:hover{

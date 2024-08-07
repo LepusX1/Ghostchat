@@ -135,10 +135,8 @@ header{
     border-radius: 20px;
     background-color: black;
     margin: 0px 5px;
-}
-
-.header__right_button p{
     color: white;
+    text-decoration: none;
 }
 
 body{
